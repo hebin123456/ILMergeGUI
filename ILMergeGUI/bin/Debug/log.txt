@@ -1,0 +1,1192 @@
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+/target not specified, but output file, 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\A', has a different extension than the primary assembly, 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in DataViewCtrlLib's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot.WindowsForms's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	DataViewCtrlLib.PeKind = ILonly
+	OxyPlot.PeKind = ILonly
+	OxyPlot.WindowsForms.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Xml.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System'.
+Resolved assembly reference 'System' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Net'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Net'.
+Resolved assembly reference 'System.Net' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Net.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot.WindowsForms' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'DataViewCtrlLib' for assembly-level attributes for the target assembly.
+Merging assembly 'DataViewCtrlLib' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'OxyPlot' into target assembly.
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Merging assembly 'OxyPlot.WindowsForms' into target assembly.
+Copying 1 Win32 Resources from assembly 'DataViewCtrlLib' into target assembly.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\A.dll'.
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+/target not specified, but output file, 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView', has a different extension than the primary assembly, 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in DataViewCtrlLib's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot.WindowsForms's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	DataViewCtrlLib.PeKind = ILonly
+	OxyPlot.PeKind = ILonly
+	OxyPlot.WindowsForms.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Xml.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System'.
+Resolved assembly reference 'System' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Net'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Net'.
+Resolved assembly reference 'System.Net' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Net.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot.WindowsForms' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'DataViewCtrlLib' for assembly-level attributes for the target assembly.
+Merging assembly 'DataViewCtrlLib' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'OxyPlot' into target assembly.
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Merging assembly 'OxyPlot.WindowsForms' into target assembly.
+Copying 1 Win32 Resources from assembly 'DataViewCtrlLib' into target assembly.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView.dll'.
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in DataViewCtrlLib's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot.WindowsForms's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	DataViewCtrlLib.PeKind = ILonly
+	OxyPlot.PeKind = ILonly
+	OxyPlot.WindowsForms.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Xml.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System'.
+Resolved assembly reference 'System' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Net'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Net'.
+Resolved assembly reference 'System.Net' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Net.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot.WindowsForms' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'DataViewCtrlLib' for assembly-level attributes for the target assembly.
+Merging assembly 'DataViewCtrlLib' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'OxyPlot' into target assembly.
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Merging assembly 'OxyPlot.WindowsForms' into target assembly.
+Copying 1 Win32 Resources from assembly 'DataViewCtrlLib' into target assembly.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView.dll'.
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in DataViewCtrlLib's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot.WindowsForms's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	DataViewCtrlLib.PeKind = ILonly
+	OxyPlot.PeKind = ILonly
+	OxyPlot.WindowsForms.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Xml.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System'.
+Resolved assembly reference 'System' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Net'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Net'.
+Resolved assembly reference 'System.Net' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Net.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot.WindowsForms' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'DataViewCtrlLib' for assembly-level attributes for the target assembly.
+Merging assembly 'DataViewCtrlLib' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'OxyPlot' into target assembly.
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Merging assembly 'OxyPlot.WindowsForms' into target assembly.
+Copying 1 Win32 Resources from assembly 'DataViewCtrlLib' into target assembly.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView.dll'.
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Could not find the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView.dll'.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in DataViewCtrlLib's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot.WindowsForms's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	DataViewCtrlLib.PeKind = ILonly
+	OxyPlot.PeKind = ILonly
+	OxyPlot.WindowsForms.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Xml.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System'.
+Resolved assembly reference 'System' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Net'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Net'.
+Resolved assembly reference 'System.Net' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Net.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot.WindowsForms' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'DataViewCtrlLib' for assembly-level attributes for the target assembly.
+Merging assembly 'DataViewCtrlLib' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'OxyPlot' into target assembly.
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Merging assembly 'OxyPlot.WindowsForms' into target assembly.
+Copying 1 Win32 Resources from assembly 'DataViewCtrlLib' into target assembly.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView.dll'.
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in DataViewCtrlLib's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot.WindowsForms's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	DataViewCtrlLib.PeKind = ILonly
+	OxyPlot.PeKind = ILonly
+	OxyPlot.WindowsForms.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Xml.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System'.
+Resolved assembly reference 'System' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Net'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Net'.
+Resolved assembly reference 'System.Net' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Net.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot.WindowsForms' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'DataViewCtrlLib' for assembly-level attributes for the target assembly.
+Merging assembly 'DataViewCtrlLib' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'OxyPlot' into target assembly.
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Merging assembly 'OxyPlot.WindowsForms' into target assembly.
+Copying 1 Win32 Resources from assembly 'DataViewCtrlLib' into target assembly.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView.dll'.
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in DataViewCtrlLib's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot.WindowsForms's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	DataViewCtrlLib.PeKind = ILonly
+	OxyPlot.PeKind = ILonly
+	OxyPlot.WindowsForms.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Xml.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System'.
+Resolved assembly reference 'System' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Net'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Net'.
+Resolved assembly reference 'System.Net' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Net.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot.WindowsForms' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'DataViewCtrlLib' for assembly-level attributes for the target assembly.
+Merging assembly 'DataViewCtrlLib' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'OxyPlot' into target assembly.
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Merging assembly 'OxyPlot.WindowsForms' into target assembly.
+Copying 1 Win32 Resources from assembly 'DataViewCtrlLib' into target assembly.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\A.dll'.
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll
+	F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataViewCtrlLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in DataViewCtrlLib's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot's metadata.
+Trying to read assembly from the file 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\OxyPlot.WindowsForms.dll'.
+	Successfully read in assembly.
+	There were no errors reported in OxyPlot.WindowsForms's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	DataViewCtrlLib.PeKind = ILonly
+	OxyPlot.PeKind = ILonly
+	OxyPlot.WindowsForms.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'DataViewCtrlLib' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Xml.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System'.
+Resolved assembly reference 'System' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Net'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Net'.
+Resolved assembly reference 'System.Net' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Net.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'OxyPlot.WindowsForms' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Using assembly 'DataViewCtrlLib' for assembly-level attributes for the target assembly.
+Merging assembly 'DataViewCtrlLib' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'OxyPlot' into target assembly.
+AssemblyResolver: Assembly 'OxyPlot' is referencing assembly 'System.Core'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Core'.
+Resolved assembly reference 'System.Core' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Core.dll'. (Used framework directory.)
+Merging assembly 'OxyPlot.WindowsForms' into target assembly.
+Copying 1 Win32 Resources from assembly 'DataViewCtrlLib' into target assembly.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'F:\SPREAD\work\DataView\code\demo\20160531\OxyPlotDemo\DataViewTest\bin\Debug\DataView.dll'.
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Core' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Core.dll'
+	There were no errors reported in  System.Core's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	E:\接的活\WordApplication\bin\Debug\WordApplication.exe
+	E:\接的活\WordApplication\bin\Debug\ICSharpCode.SharpZipLib.dll
+	E:\接的活\WordApplication\bin\Debug\NPOI.dll
+	E:\接的活\WordApplication\bin\Debug\NPOI.OOXML.dll
+	E:\接的活\WordApplication\bin\Debug\NPOI.OpenXml4Net.dll
+	E:\接的活\WordApplication\bin\Debug\NPOI.OpenXmlFormats.dll
+Trying to read assembly from the file 'E:\接的活\WordApplication\bin\Debug\WordApplication.exe'.
+	Successfully read in assembly.
+	There were no errors reported in WordApplication's metadata.
+Trying to read assembly from the file 'E:\接的活\WordApplication\bin\Debug\ICSharpCode.SharpZipLib.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'E:\接的活\WordApplication\bin\Debug\ICSharpCode.SharpZipLib.dll'.
+	Successfully read in assembly.
+	There were no errors reported in ICSharpCode.SharpZipLib's metadata.
+Trying to read assembly from the file 'E:\接的活\WordApplication\bin\Debug\NPOI.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'E:\接的活\WordApplication\bin\Debug\NPOI.dll'.
+	Successfully read in assembly.
+	There were no errors reported in NPOI's metadata.
+Trying to read assembly from the file 'E:\接的活\WordApplication\bin\Debug\NPOI.OOXML.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'E:\接的活\WordApplication\bin\Debug\NPOI.OOXML.dll'.
+	Successfully read in assembly.
+	There were no errors reported in NPOI.OOXML's metadata.
+Trying to read assembly from the file 'E:\接的活\WordApplication\bin\Debug\NPOI.OpenXml4Net.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'E:\接的活\WordApplication\bin\Debug\NPOI.OpenXml4Net.dll'.
+	Successfully read in assembly.
+	There were no errors reported in NPOI.OpenXml4Net's metadata.
+Trying to read assembly from the file 'E:\接的活\WordApplication\bin\Debug\NPOI.OpenXmlFormats.dll'.
+Can not find PDB file. Debug info will not be available for assembly 'E:\接的活\WordApplication\bin\Debug\NPOI.OpenXmlFormats.dll'.
+	Successfully read in assembly.
+	There were no errors reported in NPOI.OpenXmlFormats's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	WordApplication.PeKind = ILonly, Requires32bits
+	ICSharpCode.SharpZipLib.PeKind = ILonly
+	NPOI.PeKind = ILonly
+	NPOI.OOXML.PeKind = ILonly
+	NPOI.OpenXml4Net.PeKind = ILonly
+	NPOI.OpenXmlFormats.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'WordApplication' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'WordApplication' is referencing assembly 'System.Data'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data'.
+Resolved assembly reference 'System.Data' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Data.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'System.Data' is referencing assembly 'System.Xml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Xml'.
+Resolved assembly reference 'System.Xml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'. (Used referencing Module's directory.)
+AssemblyResolver: Assembly 'NPOI' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Drawing.dll'. (Used framework directory.)
+Using assembly 'WordApplication' for assembly-level attributes for the target assembly.
+Merging assembly 'WordApplication' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'ICSharpCode.SharpZipLib' into target assembly.
+Assembly level attribute 'System.Security.AllowPartiallyTrustedCallersAttribute' from assembly 'ICSharpCode.SharpZipLib' being deleted from target assembly
+Merging assembly 'NPOI' into target assembly.
+Assembly level attribute 'System.Security.AllowPartiallyTrustedCallersAttribute' from assembly 'NPOI' being deleted from target assembly
+Merging assembly 'NPOI.OOXML' into target assembly.
+Assembly level attribute 'System.Security.AllowPartiallyTrustedCallersAttribute' from assembly 'NPOI.OOXML' being deleted from target assembly
+Merging assembly 'NPOI.OpenXml4Net' into target assembly.
+Assembly level attribute 'System.Security.AllowPartiallyTrustedCallersAttribute' from assembly 'NPOI.OpenXml4Net' being deleted from target assembly
+Merging assembly 'NPOI.OpenXmlFormats' into target assembly.
+Assembly level attribute 'System.Security.AllowPartiallyTrustedCallersAttribute' from assembly 'NPOI.OpenXmlFormats' being deleted from target assembly
+Copying 2 Win32 Resources from assembly 'WordApplication' into target assembly.
+Transferring entry point 'WordApplication.Program.Main' from assembly 'WordApplication' to assembly '1'.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'C:\Users\以夕阳落款\Desktop\1.exe'.
+AssemblyResolver: Assembly 'WordApplication' is referencing assembly 'System.Management'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Management'.
+Resolved assembly reference 'System.Management' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Management.dll'. (Used framework directory.)
+AssemblyResolver: Assembly 'System.Data' is referencing assembly 'System.EnterpriseServices'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.EnterpriseServices'.
+Resolved assembly reference 'System.EnterpriseServices' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.EnterpriseServices.dll'. (Used referencing Module's directory.)
+AssemblyResolver: Assembly 'System.Data' is referencing assembly 'System.Transactions'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Transactions'.
+Resolved assembly reference 'System.Transactions' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Transactions.dll'. (Used referencing Module's directory.)
+AssemblyResolver: Assembly 'System' is referencing assembly 'System.Configuration'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Configuration'.
+Resolved assembly reference 'System.Configuration' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Configuration.dll'. (Used referencing Module's directory.)
+AssemblyResolver: Assembly 'System.Xml' is referencing assembly 'System.Data.SqlXml'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Data.SqlXml'.
+Resolved assembly reference 'System.Data.SqlXml' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.SqlXml.dll'. (Used referencing Module's directory.)
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Data' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Data.dll'
+	There were no errors reported in  System.Data's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Management' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Management.dll'
+	There were no errors reported in  System.Management's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+Location for referenced assembly 'System.Configuration' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Configuration.dll'
+	There were no errors reported in  System.Configuration's metadata.
+ILMerge: Done.
+Set platform to 'v4', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Set platform to 'v2', using directory 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319' for mscorlib.dll
+Running on Microsoft (R) .NET Framework v4.0.30319
+mscorlib.dll version = 4.0.0.0
+The list of input assemblies is:
+	C:\Users\以夕阳落款\Desktop\ILMergeGUI.exe
+	C:\Users\以夕阳落款\Desktop\ILMerge.exe
+Trying to read assembly from the file 'C:\Users\以夕阳落款\Desktop\ILMergeGUI.exe'.
+Can not find PDB file. Debug info will not be available for assembly 'C:\Users\以夕阳落款\Desktop\ILMergeGUI.exe'.
+	Successfully read in assembly.
+	There were no errors reported in ILMergeGUI's metadata.
+Trying to read assembly from the file 'C:\Users\以夕阳落款\Desktop\ILMerge.exe'.
+Can not find PDB file. Debug info will not be available for assembly 'C:\Users\以夕阳落款\Desktop\ILMerge.exe'.
+	Successfully read in assembly.
+	There were no errors reported in ILMerge's metadata.
+Checking to see that all of the input assemblies have a compatible PeKind.
+	ILMergeGUI.PeKind = ILonly, Requires32bits
+	ILMerge.PeKind = ILonly
+All input assemblies have a compatible PeKind value.
+AssemblyResolver: Assembly 'ILMergeGUI' is referencing assembly 'System.Windows.Forms'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+	AssemblyResolver: Did not find assembly in referencing assembly's directory.
+	AssemblyResolver: Attempting input directory.
+	AssemblyResolver: Did not find assembly in input directory.
+	AssemblyResolver: Attempting user-supplied directories.
+	AssemblyResolver: No user-supplied directories.
+	AssemblyResolver: Attempting framework directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Windows.Forms'.
+Resolved assembly reference 'System.Windows.Forms' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\..\v4.0.30319\System.Windows.Forms.dll'. (Used framework directory.)
+Using assembly 'ILMergeGUI' for assembly-level attributes for the target assembly.
+Merging assembly 'ILMergeGUI' into target assembly.
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'System.Drawing'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Drawing'.
+Resolved assembly reference 'System.Drawing' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'. (Used referencing Module's directory.)
+AssemblyResolver: Assembly 'System.Windows.Forms' is referencing assembly 'Accessibility'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'Accessibility'.
+Resolved assembly reference 'Accessibility' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\Accessibility.dll'. (Used referencing Module's directory.)
+Merging assembly 'ILMerge' into target assembly.
+Copying 2 Win32 Resources from assembly 'ILMergeGUI' into target assembly.
+Transferring entry point 'ILMergeGUI.Program.Main' from assembly 'ILMergeGUI' to assembly 'ILMergeGUI_Merged'.
+	There were no errors reported in the target assembly's metadata.
+ILMerge: Writing target assembly 'C:\Users\以夕阳落款\Desktop\ILMergeGUI_Merged.exe'.
+AssemblyResolver: Assembly 'System' is referencing assembly 'System.Configuration'.
+	AssemblyResolver: Attempting referencing assembly's directory.
+Can not find PDB file. Debug info will not be available for assembly 'System.Configuration'.
+Resolved assembly reference 'System.Configuration' to 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Configuration.dll'. (Used referencing Module's directory.)
+Location for referenced module 'kernel32' is ''
+Location for referenced module 'kernel32.dll' is ''
+Location for referenced module 'mscoree.dll' is ''
+Location for referenced module 'mscorsn.dll' is ''
+Location for referenced module 'fusion.dll' is ''
+Location for referenced assembly 'mscorlib' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\mscorlib.dll'
+	There were no errors reported in  mscorlib's metadata.
+Location for referenced assembly 'System.Windows.Forms' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Windows.Forms.dll'
+	There were no errors reported in  System.Windows.Forms's metadata.
+Location for referenced assembly 'System' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\system.dll'
+	There were no errors reported in  System's metadata.
+Location for referenced assembly 'System.Drawing' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Drawing.dll'
+	There were no errors reported in  System.Drawing's metadata.
+Location for referenced assembly 'System.Xml' is 'C:\Windows\Microsoft.NET\Framework\v4.0.30319\System.Xml.dll'
+	There were no errors reported in  System.Xml's metadata.
+ILMerge: Done.
